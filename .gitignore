@@ -1,2 +1,5 @@
 celeba
 *.pdf
+*.png
+*.pt
+*.json
