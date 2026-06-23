@@ -1,5 +1,6 @@
-celeba
+/.venv
+/celeba
+/Results
+
 *.pdf
-*.png
-*.pt
-*.json
+*.docx
