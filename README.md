@@ -3,7 +3,13 @@
 ## Sample Output
 ![Sample_Output](https://github.com/user-attachments/assets/26921b8d-567b-4d7d-ab89-69f945541d37)
 
-## How to Run
+## How to Run on Kaggle
+This project can run on [Kaggle](https://www.kaggle.com/) using the CelebA dataset.
+
+Simply attach the CelebA dataset to your Kaggle notebook.
+
+
+## How to Run locally
 
 ### 1. Clone the repository
 ```bash
@@ -29,7 +35,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Run on Kaggle with CelebA
-This project can run on [Kaggle](https://www.kaggle.com/) using the CelebA dataset.
 
-Simply attach the CelebA dataset to your Kaggle notebook.
+### 4. Download CelebA and change the way that code load the dataset
+
+
+
